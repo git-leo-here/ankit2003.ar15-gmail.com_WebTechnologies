@@ -174,7 +174,7 @@ nav .bx-menu {
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  z-index: 99;
+  z-index: 97;
 }
 
 .icon-bar a {
@@ -379,7 +379,7 @@ footer .bottom a {
   nav .navbar .links li {
     display: block;
   }
-  .sidebar-logo i,
+  .sidebar-logo .bx-x,
   .navbar .bx-menu {
     font-size: 25px;
     color: #fff;
